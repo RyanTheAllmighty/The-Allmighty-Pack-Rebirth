@@ -8,16 +8,18 @@ This pack includes a bunch of changes to default mod stuffs which a list is belo
 * All items have half their durability by default
 
 ## Recipe changes
-* Aluminum brass clock recipe removed
 * Project E destruction catalyst has a more expensive recipe
-* Warp pages recip requires unstable ingots so as to not be stupidly OP early on
+* Warp pages recipe requires unstable ingots so as to not be stupidly OP early on
 * Project E transmutation tablet requires dark matter
 * Project E repair talisman requires red matter
+* Project E swiftwolfs ring requires red matter
 * StargateTech2 ring platform requires an upgraded machine frame
 
 ## Item removals
+* Aluminum brass clock recipe removed
 * Project E watch of flowing time removed
 * Reliquary destruction catalyst removed
+* All Project E armour removed
 
 ## EMC values
 * Warp pages have no EMC value

@@ -164,7 +164,7 @@
         
         <mod name="Baubles" version="1.0.1.10" url="packs/TheAllmightyPackRebirth/files/1.7/mods/Baubles-1.7.10-1.0.1.10.jar" file="Baubles-1.7.10-1.0.1.10.jar" md5="0e711d6535970f62d4964edaa26f4623" download="server" type="mods" website="http://www.minecraftforum.net/topic/2535073-baubles" authors="Azanor" description="Adding a touch of bling to Minecraft" />
         
-        <mod name="Infernal Mobs" version="1.5.9" url="packs/TheAllmightyPackRebirth/files/1.7/mods/InfernalMobs-1.7.10.jar" file="InfernalMobs-1.7.10.jar" md5="b8354e3a363a262dfdc0fc59c9f3fbf7" download="server" type="mods" website="http://www.minecraftforum.net/topic/991952-" authors="AtomicStryker" description="Diablo Style random Enchantments on Entities! Harder fights! More XP and enchanted loot!" />
+        <mod name="Infernal Mobs" version="1.5.9" url="http://adf.ly/q37bG" file="InfernalMobs-1.7.10.jar" md5="b8354e3a363a262dfdc0fc59c9f3fbf7" download="browser" type="mods" website="http://www.minecraftforum.net/topic/991952-" authors="AtomicStryker" description="Diablo Style random Enchantments on Entities! Harder fights! More XP and enchanted loot!" />
         
         <mod name="Lycanites Mobs" version="1.10.11.2" url="packs/TheAllmightyPackRebirth/files/1.7/mods/LycanitesMobsComplete 1.10.11.2 [1.7.10].jar" file="LycanitesMobsComplete 1.10.11.2 [1.7.10].jar" md5="17ff802b1afe3d8470ea589d1c71325a" download="server" type="mods" website="http://lycanitesmobs.nephrite.uk" donation="https://www.patreon.com/lycanite?u=130426" authors="Lycanite" description="Lycanites Mobs is a project that adds a wide range of new mobs to Minecraft. The mod adds a group of mobs to each specific biome type as well as other locations such as from Fire or Lava." />
         

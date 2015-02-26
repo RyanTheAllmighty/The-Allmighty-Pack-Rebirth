@@ -175,10 +175,6 @@
         <mod name="OpenBlocks" version="1.3 Snapshot 566" url="packs/TheAllmightyPackRebirth/files/1.7/mods/OpenBlocks-1.7.10-1.3-snapshot-566.jar" file="OpenBlocks-1.7.10-1.3-snapshot-566.jar" md5="ed2c341c3ace6ba588063d6609d1ac38" download="server" type="mods" website="http://www.openperipheral.info" donation="http://www.patreon.com/openmods" authors="Mikee,NeverCast,boq,Lyqyd" description="All the things you never thought you will ever need" />
 
         <mod name="OpenModLibs" version="0.6 Snapshot 315" url="packs/TheAllmightyPackRebirth/files/1.7/mods/OpenModsLib-1.7.10-0.6-snapshot-315.jar" file="OpenModsLib-1.7.10-0.6-snapshot-315.jar" md5="c95711db931942db74ddb3a554d84148" download="server" type="mods" website="http://openmods.info/" donation="http://www.patreon.com/openmods" authors="Mikee,NeverCast,boq,Lyqyd" description="Boring stuff for all that silly Open* mods" />
-        
-        <!--<mod name="OpenModsLib" version="0.6" url="packs/TheAllmightyPackRebirth/files/1.7/mods/OpenModsLib-1.7.10-0.6.jar" file="OpenModsLib-1.7.10-0.6.jar" md5="826ed8918d3eb9281e2dd4cb27fbe31e" download="server" type="mods" website="http://openmods.info/" donation="http://www.patreon.com/openmods" authors="Mikee,NeverCast,boq,Lyqyd" description="Boring stuff for all that silly Open* mods" />
-        
-        <mod name="OpenBlocks" version="1.3" url="packs/TheAllmightyPackRebirth/files/1.7/mods/OpenBlocks-1.7.10-1.3.jar" file="OpenBlocks-1.7.10-1.3.jar" md5="746c1bc0f853ccd30db0faf8a98ed9e7" download="server" type="mods" website="http://www.openperipheral.info" donation="http://www.patreon.com/openmods" authors="Mikee,NeverCast,boq,Lyqyd" description="All the things you never thought you will ever need" />-->
 
         <mod name="OpenEye" version="0.6" url="packs/TheAllmightyPackRebirth/files/1.7/mods/OpenEye-0.6-1.7.10.jar" file="OpenEye-0.6-1.7.10.jar" md5="38671a0ad16f1b8978fbd612ec75e9d3" download="server" type="mods" website="http://openmods.info" donation="http://www.patreon.com/openmods" authors="boq,Mikee" description="User protection, error management and analytics" />
         

@@ -12,6 +12,8 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<DimensionalAnchors:chunkloader>);
+recipes.remove(<MineFactoryReloaded:machine.2:10>);
 recipes.remove(<ProjectE:item.pe_gem_armor_1>);
 recipes.remove(<ProjectE:item.pe_gem_armor_2>);
 recipes.remove(<ProjectE:item.pe_gem_armor_3>);
@@ -47,6 +49,7 @@ recipes.removeShaped(<minecraft:clock>, [[null, <ore:ingotAluminumBrass>, null],
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<DimensionalAnchors:chunkloader>, [[<ore:blockGold>, <ore:blockGold>, <ore:blockGold>], [<ore:blockGold>, <ore:blockIron>, <ore:blockGold>], [<minecraft:gold_block>, <minecraft:gold_block>, <ore:blockGold>]]);
 recipes.addShaped(<ProjectE:item.pe_swrg>, [[<ProjectE:item.pe_matter:1>, <minecraft:feather>, <ProjectE:item.pe_matter:1>], [<minecraft:feather>, <ProjectE:item.pe_ring_iron_band>, <minecraft:feather>], [<ProjectE:item.pe_matter:1>, <minecraft:feather>, <ProjectE:item.pe_matter:1>]]);
 recipes.addShaped(<ProjectE:item.pe_destruction_catalyst>, [[<ProjectE:Nova Cataclysm>, <ProjectE:item.pe_fuel:2>, <ProjectE:Nova Cataclysm>], [<ProjectE:item.pe_fuel:2>, <ProjectE:item.pe_matter:1>, <ProjectE:item.pe_fuel:2>], [<ProjectE:Nova Cataclysm>, <ProjectE:item.pe_fuel:2>, <ProjectE:Nova Cataclysm>]]);
 recipes.addShaped(<ProjectE:Transmutation Stone>, [[<ProjectE:item.pe_matter>, <minecraft:stone>, <ProjectE:item.pe_matter>], [<minecraft:stone>, <ProjectE:item.pe_philosophers_stone>, <minecraft:stone>], [<ProjectE:item.pe_matter>, <minecraft:stone>, <ProjectE:item.pe_matter>]]);

@@ -398,6 +398,9 @@
         <!-- http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode/files -->
         <mod name="Hardcore Questing Mode" version="4.2.2" url="packs/TheAllmightyPackRebirth/files/1.7/resourcepacks/HQM-The Journey (4.2.2).jar" file="HQM-The Journey (4.2.2).jar" md5="44fab95a1c0b83ba86b57a03cef68390" download="server" type="mods" website="http://hardcorequest.com/" authors="Vswe,Lorddusk,Newcastlegeek" description="This mod will add Hardcore mode with extra lives. If you use up your lives, your world will be deleted or you will be banned." />
         
+        <!-- http://immibis.com/mcmoddl/ -->
+        <mod name="Dimensional Anchors" version="59.0.2" url="packs/TheAllmightyPackRebirth/files/1.7/mods/dimensional-anchor-59.0.2.jar" file="dimensional-anchor-59.0.2.jar" md5="e422a4e650091adc0327603ffb89e3d3" download="server" type="mods" website="http://www.minecraftforum.net/topic/1001131-110-immibiss-mods-smp/" authors="immibis" description="Yet another chunkloader mod." />
+        
         <!-- http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu/files -->
         <mod name="Custom Main Menu" version="1.1" url="packs/TheAllmightyPackRebirth/files/1.7/mods/CustomMainMenu-MC1.7.10-1.1.jar" file="CustomMainMenu-MC1.7.10-1.1.jar" md5="cc33db7227bb636731e8b1ee2a8b6c1e" download="server" type="mods" server="no" website="http://minecraft.curseforge.com/mc-mods/226406-custom-main-menu" authors="lumien" description="Allows you to edit the mainmenu using json" />
         

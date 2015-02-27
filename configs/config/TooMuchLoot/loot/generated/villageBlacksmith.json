@@ -1,0 +1,537 @@
+{
+  "category": "villageBlacksmith",
+  "count_min": 3,
+  "count_max": 9,
+  "loot": [
+    {
+      "item": "minecraft:diamond",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 1,
+      "count_max": 5
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "minecraft:bread",
+      "damage": 0,
+      "weight": 15,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "minecraft:apple",
+      "damage": 0,
+      "weight": 15,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "minecraft:iron_pickaxe",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:iron_sword",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:iron_chestplate",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:iron_helmet",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:iron_leggings",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:iron_boots",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 3,
+      "count_max": 7
+    },
+    {
+      "item": "minecraft:sapling",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 3,
+      "count_max": 7
+    },
+    {
+      "item": "minecraft:saddle",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:iron_horse_armor",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:golden_horse_armor",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:diamond_horse_armor",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Artifacts:artifact",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Artifacts:artifact_iron_helmet",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Artifacts:artifact_iron_chestplate",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Artifacts:artifact_iron_leggings",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Artifacts:artifact_iron_boots",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "BiomesOPlenty:plants",
+      "damage": 5,
+      "weight": 25,
+      "count_min": 2,
+      "count_max": 6
+    },
+    {
+      "item": "BiomesOPlenty:misc",
+      "damage": 1,
+      "weight": 25,
+      "count_min": 2,
+      "count_max": 8
+    },
+    {
+      "item": "BiomesOPlenty:wadingBoots",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "BiomesOPlenty:flippers",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Botania:blackLotus",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "arcticmobs:palesoup",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "arcticmobs:frostboltscepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "arcticmobs:frostwebscepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "arcticmobs:tundrascepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "arcticmobs:icefirescepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "arcticmobs:blizzardscepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "demonmobs:devillasagna",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "demonmobs:doomfirescepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "demonmobs:hellfirescepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "demonmobs:devilstarscepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "demonmobs:demoniclightningscepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "desertmobs:ambercake",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "desertmobs:scythescepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "desertmobs:mudshotscepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "forestmobs:paleosalad",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "forestmobs:lifedrainscepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "freshwatermobs:aquapulsescepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "infernomobs:searingtaco",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "infernomobs:emberscepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "infernomobs:cinderfallsword",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "infernomobs:magmascepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "infernomobs:scorchfirescepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "junglemobs:tropicalcurry",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "junglemobs:poopscepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "mountainmobs:boulderblastscepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "mountainmobs:arcanelaserstormscepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "mountainmobs:peakskebab",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "plainsmobs:bulwarkburger",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "saltwatermobs:seashellmaki",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "shadowmobs:spectralboltscepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "shadowmobs:bloodleechscepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "shadowmobs:bloodchili",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "swampmobs:mosspie",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "swampmobs:poisonrayscepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "swampmobs:venomshotscepter",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "swampmobs:venomaxeblade",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "adventurebackpack:adventureBackpack",
+      "damage": 11,
+      "nbt": {
+        "backpackData": {
+          "colorName": "IronGolem"
+        }
+      },
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "EnderIO:itemAlloy",
+      "damage": 0,
+      "weight": 20,
+      "count_min": 2,
+      "count_max": 6
+    },
+    {
+      "item": "EnderIO:itemAlloy",
+      "damage": 3,
+      "weight": 35,
+      "count_min": 3,
+      "count_max": 6
+    },
+    {
+      "item": "EnderIO:itemAlloy",
+      "damage": 6,
+      "weight": 35,
+      "count_min": 3,
+      "count_max": 6
+    },
+    {
+      "item": "EnderIO:itemAlloy",
+      "damage": 5,
+      "weight": 10,
+      "count_min": 1,
+      "count_max": 2
+    },
+    {
+      "item": "EnderIO:itemAlloy",
+      "damage": 2,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 2
+    },
+    {
+      "item": "EnderIO:item.darkSteel_sword",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "EnderIO:item.darkSteel_boots",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "HardcoreEnderExpansion:temple_caller",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 0,
+      "count_max": 1
+    },
+    {
+      "item": "HardcoreEnderExpansion:knowledge_note",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Thaumcraft:ItemResource",
+      "damage": 2,
+      "weight": 10,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "IguanaTweaksTConstruct:wearableBucket",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 0,
+      "count_max": 1
+    }
+  ]
+}

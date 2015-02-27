@@ -1,0 +1,540 @@
+{
+  "category": "strongholdLibrary",
+  "count_min": 1,
+  "count_max": 5,
+  "loot": [
+    {
+      "item": "minecraft:book",
+      "damage": 0,
+      "weight": 20,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "minecraft:paper",
+      "damage": 0,
+      "weight": 20,
+      "count_min": 2,
+      "count_max": 7
+    },
+    {
+      "item": "minecraft:map",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:compass",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 5
+    },
+    {
+      "item": "Artifacts:artifact",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "arcticmobs:palesoup",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "arcticmobs:frostboltscepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "arcticmobs:frostwebscepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "arcticmobs:tundrascepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "arcticmobs:icefirescepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "arcticmobs:blizzardscepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "demonmobs:devillasagna",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "demonmobs:doomfirescepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "demonmobs:hellfirescepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "demonmobs:devilstarscepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "demonmobs:demoniclightningscepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "desertmobs:ambercake",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "desertmobs:scythescepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "desertmobs:mudshotscepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "forestmobs:paleosalad",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "forestmobs:lifedrainscepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "freshwatermobs:aquapulsescepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "infernomobs:searingtaco",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "infernomobs:emberscepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "infernomobs:cinderfallsword",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "infernomobs:magmascepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "infernomobs:scorchfirescepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "junglemobs:tropicalcurry",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "junglemobs:poopscepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "mountainmobs:boulderblastscepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "mountainmobs:arcanelaserstormscepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "mountainmobs:peakskebab",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "plainsmobs:bulwarkburger",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "saltwatermobs:seashellmaki",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "shadowmobs:spectralboltscepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "shadowmobs:bloodleechscepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "shadowmobs:bloodchili",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "swampmobs:mosspie",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "swampmobs:poisonrayscepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "swampmobs:venomshotscepter",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "swampmobs:venomaxeblade",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "chococraft:Chocopedia",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "MineFactoryReloaded:rubberwood.sapling",
+      "damage": 3,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "OpenComputers:item",
+      "damage": 47,
+      "nbt": {
+        "oc:color^i": 2,
+        "oc:lootPath": "OpenOS",
+        "oc:data": {
+          "oc:fs.label": "openos"
+        }
+      },
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "HardcoreEnderExpansion:adventurers_diary",
+      "damage": 0,
+      "weight": 8,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "HardcoreEnderExpansion:temple_caller",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "HardcoreEnderExpansion:knowledge_note",
+      "damage": 0,
+      "weight": 9,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "TConstruct:broadsword",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 0,
+      "count_max": 1
+    },
+    {
+      "item": "Thaumcraft:ItemLootBag",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "Thaumcraft:ItemResource",
+      "damage": 2,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "Thaumcraft:ItemResource",
+      "damage": 6,
+      "weight": 4,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "Thaumcraft:ItemLootBag",
+      "damage": 1,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 2
+    },
+    {
+      "item": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 2
+    },
+    {
+      "item": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 1,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 2
+    },
+    {
+      "item": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 2,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 2
+    },
+    {
+      "item": "Thaumcraft:ItemResource",
+      "damage": 9,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 2
+    },
+    {
+      "item": "Thaumcraft:ItemResource",
+      "damage": 9,
+      "weight": 20,
+      "count_min": 3,
+      "count_max": 6
+    },
+    {
+      "item": "Thaumcraft:ItemLootBag",
+      "damage": 2,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Thaumcraft:ItemThaumonomicon",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Thaumcraft:ItemSwordThaumium",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Thaumcraft:ItemPickThaumium",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Thaumcraft:ItemAxeThaumium",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Thaumcraft:ItemHoeThaumium",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Thaumcraft:ItemRingRunic",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 3,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 4,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 5,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 6,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 7,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Thaumcraft:ItemBaubleBlanks",
+      "damage": 8,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Thaumcraft:ItemAmuletVis",
+      "damage": 0,
+      "nbt": {
+        "perditio^i": 200,
+        "aer^i": 100,
+        "ignis^i": 100,
+        "ordo^i": 400,
+        "aqua^i": 100,
+        "terra^i": 300
+      },
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Automagy:baubleEnderDisjunction",
+      "damage": 1,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IguanaTweaksTConstruct:wearableBucket",
+      "damage": 3,
+      "weight": 1,
+      "count_min": 0,
+      "count_max": 1
+    }
+  ]
+}

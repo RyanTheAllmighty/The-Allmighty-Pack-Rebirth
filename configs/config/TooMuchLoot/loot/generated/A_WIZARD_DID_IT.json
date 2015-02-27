@@ -1,0 +1,112 @@
+{
+  "category": "A_WIZARD_DID_IT",
+  "count_min": 0,
+  "count_max": 0,
+  "loot": [
+    {
+      "item": "Artifacts:artifact",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:diamond",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 2,
+      "count_max": 5
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 3,
+      "count_max": 7
+    },
+    {
+      "item": "Artifacts:dust_orichalcum",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Artifacts:dust_orichalcum",
+      "damage": 1,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Artifacts:dust_orichalcum",
+      "damage": 2,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Artifacts:dust_orichalcum",
+      "damage": 3,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Artifacts:dust_orichalcum",
+      "damage": 4,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:experience_bottle",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Artifacts:dust_orichalcum",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 4,
+      "count_max": 12
+    },
+    {
+      "item": "Artifacts:artifact_leather_helmet",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Artifacts:artifact_leather_chestplate",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Artifacts:artifact_leather_leggings",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Artifacts:artifact_leather_boots",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 1,
+      "count_max": 1
+    }
+  ]
+}

@@ -395,6 +395,9 @@
         <!-- http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2174575-drowning-overhaul-water-got-a-whole-lot-more -->
         <mod name="Drowning Overhaul" version="1.0" url="packs/TheAllmightyPackRebirth/files/1.7/resourcepacks/airoverhaul-1.7.10_1.0.jar" file="airoverhaul-1.7.10_1.0.jar" md5="948914be975344602507246ef5d2181f" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2174575-drowning-overhaul-water-got-a-whole-lot-more" authors="Mark719" description="A simple mod that makes it so, when you run out of air under water you instantly die, and don&apos;t take damage slowly." />
         
+        <!-- http://www.big-reactors.com/#/download -->
+        <mod name="Big Reactors" version="0.4.2A2" url="packs/TheAllmightyPackRebirth/files/1.7/mods/BigReactors-0.4.2A2.jar" file="BigReactors-0.4.2A2.jar" md5="a6981e4d1e6fffae6d0bc16573b91f31" download="server" type="mods" website="http://www.big-reactors.com" authors="ErogenousBeef" description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) power." />
+        
         <!-- http://immibis.com/mcmoddl/ -->
         <mod name="Immibis Core" version="59.0.7" url="packs/TheAllmightyPackRebirth/files/1.7/mods/immibis-core-59.0.7.jar" file="immibis-core-59.0.7.jar" md5="bed0b1648645049613a8d2a420097011" download="server" type="mods" website="http://www.minecraftforum.net/topic/1001131-110-immibiss-mods-smp/" authors="immibis" description="This is like CodeChicken Core, Buildcraft Core, RedPower Core, and so on - it provides requirements for other mods." />
         

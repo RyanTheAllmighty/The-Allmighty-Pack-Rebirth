@@ -7,6 +7,11 @@
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
     </pack>
+    
+    <delete>
+      <folder base="root" target="scripts%s%" />
+    </delete>
+  
     <libraries>
         <library url="packs/TheAllmightyPackRebirth/files/1.7/libraries/launchwrapper-1.11.jar" download="server" file="launchwrapper-1.11.jar" md5="189acaecbe31eeb4366bca7ba17d7496" server="net/minecraft/launchwrapper/1.11/launchwrapper-1.11.jar" />
         <library url="packs/TheAllmightyPackRebirth/files/1.7/libraries/asm-all-5.0.3.jar" download="server" file="asm-all-5.0.3.jar" md5="c5cc4613bbdfba3ccf5f0ab85390d0b8" server="org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar" />

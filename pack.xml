@@ -395,9 +395,6 @@
         <!-- http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2174575-drowning-overhaul-water-got-a-whole-lot-more -->
         <mod name="Drowning Overhaul" version="1.0" url="packs/TheAllmightyPackRebirth/files/1.7/resourcepacks/airoverhaul-1.7.10_1.0.jar" file="airoverhaul-1.7.10_1.0.jar" md5="948914be975344602507246ef5d2181f" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2174575-drowning-overhaul-water-got-a-whole-lot-more" authors="Mark719" description="A simple mod that makes it so, when you run out of air under water you instantly die, and don&apos;t take damage slowly." />
         
-        <!-- http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode/files -->
-        <mod name="Hardcore Questing Mode" version="4.2.2" url="packs/TheAllmightyPackRebirth/files/1.7/resourcepacks/HQM-The Journey (4.2.2).jar" file="HQM-The Journey (4.2.2).jar" md5="44fab95a1c0b83ba86b57a03cef68390" download="server" type="mods" website="http://hardcorequest.com/" authors="Vswe,Lorddusk,Newcastlegeek" description="This mod will add Hardcore mode with extra lives. If you use up your lives, your world will be deleted or you will be banned." />
-        
         <!-- http://immibis.com/mcmoddl/ -->
         <mod name="Immibis Core" version="59.0.7" url="packs/TheAllmightyPackRebirth/files/1.7/mods/immibis-core-59.0.7.jar" file="immibis-core-59.0.7.jar" md5="bed0b1648645049613a8d2a420097011" download="server" type="mods" website="http://www.minecraftforum.net/topic/1001131-110-immibiss-mods-smp/" authors="immibis" description="This is like CodeChicken Core, Buildcraft Core, RedPower Core, and so on - it provides requirements for other mods." />
         

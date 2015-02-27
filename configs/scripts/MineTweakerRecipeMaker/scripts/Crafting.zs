@@ -12,6 +12,16 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<securitycraft:trackMine>);
+recipes.remove(<securitycraft:inventoryScanner>);
+recipes.remove(<securitycraft:laserBlock>);
+recipes.remove(<securitycraft:bouncingBetty>);
+recipes.remove(<securitycraft:mine>);
+recipes.remove(<securitycraft:keypad>);
+recipes.remove(<securitycraft:null:2>);
+recipes.remove(<securitycraft:null:1>);
+recipes.remove(<securitycraft:null>);
+recipes.remove(<securitycraft:codebreaker>);
 recipes.remove(<DimensionalAnchors:chunkloader>);
 recipes.remove(<MineFactoryReloaded:machine.2:10>);
 recipes.remove(<ProjectE:item.pe_gem_armor_1>);
@@ -49,6 +59,15 @@ recipes.removeShaped(<minecraft:clock>, [[null, <ore:ingotAluminumBrass>, null],
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<securitycraft:trackMine>, [[<ore:ingotIron>, <securitycraft:mine>, <ore:ingotIron>], [<ore:ingotIron>, <ore:woodStick>, <ore:ingotIron>], [<ore:ingotIron>, <securitycraft:mine>, <ore:ingotIron>]]);
+recipes.addShaped(<securitycraft:inventoryScanner>, [[<minecraft:stone>, <minecraft:stone>, <minecraft:stone>], [<minecraft:stone>, <securitycraft:laserBlock>, <minecraft:stone>], [<minecraft:stone>, <EnderStorage:enderChest>, <minecraft:stone>]]);
+recipes.addShaped(<securitycraft:laserBlock>, [[<ore:stone>, <minecraft:glass>, <ore:stone>], [<minecraft:glass>, <ore:blockRedstone>, <minecraft:glass>], [<ore:stone>, <ore:blockGlassColorless>, <ore:stone>]]);
+recipes.addShaped(<securitycraft:bouncingBetty>, [[<ore:ingotIron>, <minecraft:heavy_weighted_pressure_plate>, <ore:ingotIron>], [<ore:ingotIron>, <securitycraft:mine>, <ore:ingotIron>], [<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>]]);
+recipes.addShaped(<securitycraft:mine>, [[<minecraft:stone>, <minecraft:iron_ingot>, <minecraft:stone>], [<minecraft:iron_ingot>, <ProjectE:Nova Cataclysm>, <minecraft:iron_ingot>], [<minecraft:stone>, <minecraft:iron_ingot>, <minecraft:stone>]]);
+recipes.addShaped(<securitycraft:keypad>, [[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>], [<minecraft:iron_ingot>, <minecraft:stone_button>, <ore:ingotIron>], [<minecraft:iron_ingot>, <ore:ingotIron>, <ore:ingotIron>]]);
+recipes.addShaped(<securitycraft:null:2>, [[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>], [<securitycraft:null:1>, <securitycraft:null:1>, <securitycraft:null:1>]]);
+recipes.addShaped(<securitycraft:null:1>, [[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>], [<securitycraft:null>, <securitycraft:null>, <securitycraft:null>]]);
+recipes.addShaped(<securitycraft:null>, [[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <ore:ingotIron>], [<minecraft:gold_ingot>, <ore:ingotGold>, <ore:ingotGold>]]);
 recipes.addShaped(<DimensionalAnchors:chunkloader>, [[<ore:blockGold>, <ore:blockGold>, <ore:blockGold>], [<ore:blockGold>, <ore:blockIron>, <ore:blockGold>], [<minecraft:gold_block>, <minecraft:gold_block>, <ore:blockGold>]]);
 recipes.addShaped(<ProjectE:item.pe_swrg>, [[<ProjectE:item.pe_matter:1>, <minecraft:feather>, <ProjectE:item.pe_matter:1>], [<minecraft:feather>, <ProjectE:item.pe_ring_iron_band>, <minecraft:feather>], [<ProjectE:item.pe_matter:1>, <minecraft:feather>, <ProjectE:item.pe_matter:1>]]);
 recipes.addShaped(<ProjectE:item.pe_destruction_catalyst>, [[<ProjectE:Nova Cataclysm>, <ProjectE:item.pe_fuel:2>, <ProjectE:Nova Cataclysm>], [<ProjectE:item.pe_fuel:2>, <ProjectE:item.pe_matter:1>, <ProjectE:item.pe_fuel:2>], [<ProjectE:Nova Cataclysm>, <ProjectE:item.pe_fuel:2>, <ProjectE:Nova Cataclysm>]]);

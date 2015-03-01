@@ -409,7 +409,7 @@
         
         <!-- http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820 -->
         <mod name="FastCraft" version="1.19" url="packs/TheAllmightyPackRebirth/files/1.7/mods/fastcraft-1.19.jar" file="fastcraft-1.19.jar" md5="4b503355f86d17406ce658f506eb1407" download="server" serveroptional="yes" type="mods" website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=10820" authors="Player" description="FastCraft optimizes MineCraft in various ways, visit the homepage for further details and support." />
-        
+
         <!-- http://www.minecraftforum.net/topic/249637- -->
         <mod name="Optifine" version="HD_B5" url="http://adf.ly/404181/optifine.net/adloadx.php?f=OptiFine_1.7.10_HD_B5.jar" file="OptiFine_1.7.10_HD_B5.jar" download="browser" type="mods" server="no" optional="yes" recommended="no" website="http://www.minecraftforum.net/topic/249637-" donation="http://optifine.net/donate.php" authors="sp614x" description="This mod adds support for HD textures and a lot of options for better looks and performance. Doubling the FPS is common." />
         

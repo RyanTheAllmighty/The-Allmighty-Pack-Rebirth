@@ -1,0 +1,22 @@
+{
+  "name": "The-Allmighty-Pack-Rebirth",
+  "version": "1.0.0",
+  "description": "This is the repo for issues/info about The Allmighty Pack Rebirth",
+  "main": "upload.js",
+  "dependencies": {
+    "archiver": "^0.14.3",
+    "node-env-file": "^0.1.7",
+    "request": "^2.55.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RyanTheAllmighty/The-Allmighty-Pack-Rebirth.git"
+  },
+  "author": "RyanTheAllmighty",
+  "license": "GNUv3",
+  "bugs": {
+    "url": "https://github.com/RyanTheAllmighty/The-Allmighty-Pack-Rebirth/issues"
+  },
+  "homepage": "https://github.com/RyanTheAllmighty/The-Allmighty-Pack-Rebirth"
+}

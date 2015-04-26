@@ -1,2 +1,5 @@
-.config
-my-configs
+.env
+my_configs
+files
+node_modules
+configs.zip

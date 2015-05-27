@@ -22,8 +22,8 @@ A space instead of a letter will indicate that nothing goes there. Then, match e
 Look below to understand. for no recipe, don't put anything below the recipe line.
 
 >properties
-spawnrate=500
-structureChance=50
+spawnrate=200
+structureChance=2
 recipe=ggg,gdg,ggg,g,gold_ingot,d,dropper
 doDropsOnCreativeMode=false
 

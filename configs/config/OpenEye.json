@@ -1,20 +1,24 @@
 {
-    "gui": {
-        "mainScreenExtraLine": {
-            "comment": "Enables extra line in main menu screen under buttons (if true, only note button will be displayed)",
-            "value": false
-        },
-        "mainScreenNotes": {
-            "comment": "Enables OpenEye additions to main menu screen",
-            "value": false
-        }
-    },
     "features": {
-        "responseBlacklist": {
-            "value": []
-        },
         "reportsBlacklist": {
             "value": []
+        },
+        "responseBlacklist": {
+            "value": []
+        }
+    },
+    "debug": {
+        "dontSend": {
+            "value": false
+        },
+        "pingOnInitialReport": {
+            "value": false
+        },
+        "crashOnStartup": {
+            "value": false
+        },
+        "debugSanitizer": {
+            "value": false
         }
     },
     "data": {
@@ -22,26 +26,22 @@
             "comment": "Send only information about files and crashes - no analytics",
             "value": false
         },
-        "tags": {
-            "value": ['TAPR', 'TAPR-1.0.0.0']
-        },
         "sentCrashReportsLimit": {
             "comment": "Maximum number of crash reports from single category sent per single run",
             "value": 20
+        },
+        "tags": {
+            "value": ['TAPR', 'TAPR-1.0.0']
         }
     },
-    "debug": {
-        "debugSanitizer": {
-            "value": false
+    "gui": {
+        "mainScreenExtraLine": {
+            "comment": "Enables extra line in main menu screen under buttons (if true, only note button will be displayed)",
+            "value": true
         },
-        "crashOnStartup": {
-            "value": false
-        },
-        "pingOnInitialReport": {
-            "value": false
-        },
-        "dontSend": {
-            "value": false
+        "mainScreenNotes": {
+            "comment": "Enables OpenEye additions to main menu screen",
+            "value": true
         }
     }
 }
